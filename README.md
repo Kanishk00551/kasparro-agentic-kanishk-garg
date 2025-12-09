@@ -1,4 +1,4 @@
-"""
+
 # Multi-Agent Content Generation System
 
 A modular agentic automation system that generates structured content pages from product data.
@@ -6,6 +6,7 @@ A modular agentic automation system that generates structured content pages from
 ## Architecture
 
 This system implements a DAG-based multi-agent workflow with the following components:
+See `docs/projectdocumentation.md` for detailed system design.
 
 ### Agents
 1. **ParserAgent**: Converts raw data into validated Pydantic models
@@ -56,5 +57,3 @@ src/
 └── main.py                    # Entry point
 ```
 
-See `docs/projectdocumentation.md` for detailed system design.
-"""
