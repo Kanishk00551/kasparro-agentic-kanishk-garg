@@ -1,0 +1,32 @@
+{
+  "page_type": "faq",
+  "product_name": "GlowBoost Vitamin C Serum",
+  "questions": [
+    {
+      "question": "What is GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is a skincare serum with 10% Vitamin C, designed for oily and combination skin types.",
+      "category": "Informational"
+    },
+    {
+      "question": "What is the concentration of active ingredient in GlowBoost Vitamin C Serum?",
+      "answer": "The concentration is 10% Vitamin C.",
+      "category": "Informational"
+    },
+    {
+      "question": "What skin types is this product suitable for?",
+      "answer": "This product is suitable for oily and combination skin types.",
+      "category": "Informational"
+    },
+    {
+      "question": "What are the key ingredients?",
+      "answer": "The key ingredients are Vitamin C, Hyaluronic Acid.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "How do I use this product?",
+      "answer": "Apply 2-3 drops in the morning before sunscreen",
+      "category": "Usage"
+    }
+  ],
+  "total_questions": 5
+}
