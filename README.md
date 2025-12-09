@@ -56,4 +56,9 @@ src/
 ├── orchestrator/workflow.py   # DAG orchestration
 └── main.py                    # Entry point
 ```
+<img width="872" height="706" alt="Screenshot 2025-12-09 233155" src="https://github.com/user-attachments/assets/cb40e399-64be-423a-a399-db85f409970f" />
+<img width="877" height="787" alt="Screenshot 2025-12-09 233211" src="https://github.com/user-attachments/assets/b7cd2901-acc3-4fe1-a20b-461828984631" />
+<img width="645" height="436" alt="Screenshot 2025-12-09 233224" src="https://github.com/user-attachments/assets/c4e221c5-fce4-417c-bf49-b351423f1ed6" />
+
+
 
